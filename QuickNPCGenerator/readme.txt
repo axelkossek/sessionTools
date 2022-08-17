@@ -17,3 +17,5 @@ Functionalities:
 	- Racial distribution
 	- Status distribution
 	- Gender distribution
+- Create file for campaign
+- Create file for world
