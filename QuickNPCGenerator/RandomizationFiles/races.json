@@ -1,0 +1,11 @@
+{
+  "human": {
+    "score_bonuses": [ 1, 1, 1, 1, 1, 1 ]
+  },
+  "dwarf": {
+    "score_bonuses": [ 1, 0, 2, 1, 2, 0 ]
+  },
+  "elf": {
+    "score_bonuses": [ 0, 2, 0, 2, 1, 1 ]
+  }
+}

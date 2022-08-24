@@ -1,0 +1,11 @@
+{
+  "commoner": {
+    "score_bonuses": [ 0, 0, 0, 0, 0, 0 ]
+  },
+  "smith": {
+    "score_bonuses": [ 1, 1, 0, 0, 0, 0 ]
+  },
+  "barkeeper": {
+    "score_bonuses": [ 0, 0, 0, 0, 1, 1 ]
+  }
+}
